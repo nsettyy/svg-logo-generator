@@ -1,0 +1,29 @@
+{
+    "name": "svg-logo-generator",
+    "version": "1.0.0",
+    "description": "Command-line app that creates svg files",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "author": "Nick Settembrino",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/nsettyy/svg-logo-generator"
+    },
+    "homepage": "https://github.com/nsettyy/svg-logo-generator",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
