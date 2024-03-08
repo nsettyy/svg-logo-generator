@@ -20,7 +20,7 @@ This is a command line project that generates a simple SVG logo using NodeJS
   5) Enter the logo text, shape color, and text color
 
   ## Questions:
-  If you have any questions, you may contact me at either Github: https://github.com/undefined or Email: nsett7388@gmail.com
+  If you have any questions, you may contact me at either Github: https://github.com/nsettyy or Email: nsett7388@gmail.com
 
   ## License: MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   Here is a [link](https://choosealicense.com/licenses/mit/) to the license I used.
